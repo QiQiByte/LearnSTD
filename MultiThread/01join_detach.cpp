@@ -64,7 +64,7 @@ void question02(){
 
 int main() {
     std::cout << "------------Subdirectory----------------" << std::endl;
-    // question01();
+    question01();
 
     return 0;
 }
